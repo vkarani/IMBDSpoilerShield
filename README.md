@@ -1,4 +1,4 @@
-![https://github.com/vkarani/RDAS/edit/master/RDAS_Social_Network/Figs/Movie_Reviewers.png](https://github.com/vkarani/RDAS/blob/master/RDAS_Social_Network/Figs/Movie_Reviewers.png)
+![https://github.com/vkarani/IMBDSpoilerShield/blob/main/Figs/Movie_reviewers.png](https://github.com/vkarani/IMBDSpoilerShield/blob/main/Figs/Movie_reviewers.png)
 
 --------------------
 # IMBDSpoilerShield
@@ -13,6 +13,7 @@ Avid theater goers provide plenty of reviews of movies that they have seen to si
 ```
 Root/
 ├── Methods/            <- Code and notebooks
-├── Docs/               <- pdf Reports 
+├── Docs/               <- pdf Reports
+├── Figs/               <- Images 
 ```
 
